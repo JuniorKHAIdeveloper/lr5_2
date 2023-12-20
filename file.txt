@@ -1,0 +1,10 @@
+Thread 4: 18:12:38.694 - Delay: 117 ms
+Thread 5: 18:12:38.698 - Delay: 117 ms
+Thread 6: 18:12:38.703 - Delay: 117 ms
+Thread 7: 18:12:38.703 - Delay: 117 ms
+Thread 9: 18:12:38.705 - Delay: 117 ms
+Thread 1: 18:12:38.845 - Delay: 280 ms
+Thread 3: 18:12:38.846 - Delay: 280 ms
+Thread 2: 18:12:38.851 - Delay: 280 ms
+Thread 8: 18:12:39.065 - Delay: 475 ms
+Thread 10: 18:12:39.068 - Delay: 475 ms
